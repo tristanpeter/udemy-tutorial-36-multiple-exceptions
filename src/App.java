@@ -26,6 +26,7 @@ public class App {
 			e.printStackTrace();
 		}
 
+		// Adding a test comment for Git
 		try {
 			test.input();
 		} catch (FileNotFoundException e) {
